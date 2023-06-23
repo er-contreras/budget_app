@@ -58,15 +58,14 @@ rspec spec/test_file_path
 
 👤 **Christian Erick Contreras**
 
-- GitHub: [@eri8-9](https://github.com/eri8-9)
-- Linkedin: [LinkedIn](https://www.linkedin.com/in/christian-erick/)
-- Twitter: [@ChristianErick_](https://twitter.com/ChristianErick_)
+- GitHub: [@er-contreras](https://github.com/er-contreras)
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/er-contreras/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/eri8-9/budget_app/issues).
+Feel free to check the [issues page](https://github.com/er-contreras/budget_app/issues).
 
 ## Show your support
 
@@ -79,4 +78,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [LICENSE](./LICENSE.md) licensed.

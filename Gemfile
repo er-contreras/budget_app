@@ -10,8 +10,8 @@ gem 'font-awesome-rails'
 gem 'jsbundling-rails'
 gem 'rails-controller-testing'
 gem 'rubocop', '>= 1.0', '< 2.0'
+gem 'sprockets-rails'
 gem 'stimulus-rails'
-gem "sprockets-rails"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 # gem 'rails', '~> 6.1.4', '>= 6.1.4.3'

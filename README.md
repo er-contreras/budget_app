@@ -18,7 +18,7 @@ Freely add new categories and payments after login.
 
 ## Live Demo
 
-[Live Demo Link](https://morning-journey-90954.herokuapp.com/)
+[Live Demo Link](https://budget-app0-deb7ce080f65.herokuapp.com/)
 
 
 ## Getting Started
@@ -33,7 +33,7 @@ Have installed Ruby and Rails in your machine
 
 clone this repo with:
 ``` ruby 
-git clone https://github.com/eri8-9/budget_app
+git clone https://github.com/er-contreras/budget_app
 ```
 
 ### Install
@@ -56,7 +56,7 @@ rspec spec/test_file_path
 
 ## Authors
 
-👤 **Christian Erick Contreras**
+👤 **Erick Contreras**
 
 - GitHub: [@er-contreras](https://github.com/er-contreras)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/er-contreras/)
